@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Giulio Galbiati
 
-<!--
-**galbiati-giulio/galbiati-giulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with cross-industry experience in logistics, operations, and performance analysis.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python (Pandas)
+- Excel
+- Tableau
+- Power BI
+- Looker Studio
+- MS Access
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Data Wrangling
+- Dashboard Development
+- Trend Analysis
+- Data Validation
+
+## Featured Project
+### Workplace Injuries in Italy’s Transportation & Storage Sector
+- Collected, cleaned, and validated multi-year workplace injury datasets using Excel and SQL
+- Conducted exploratory data analysis to identify trends in injury frequency, severity, and sector-specific risk patterns
+- Developed Tableau dashboards to communicate workplace safety insights and support data-driven decision making
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/giulio-galbiati-bg
+- Email: galbiati.giulio@gmail.com
